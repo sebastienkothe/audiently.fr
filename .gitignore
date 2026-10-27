@@ -1,0 +1,11 @@
+.DS_Store
+*.log
+*.tgz
+*.tar.gz
+_codex*/
+captures/
+.env
+*.env
+.ftpconfig
+.lftp*
+node_modules/
