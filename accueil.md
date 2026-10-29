@@ -1,22 +1,21 @@
 # Audiently
 
-Des clients en plus pour les éditeurs de logiciels, recommandés par les créateurs que leurs clients suivent déjà. Payé uniquement au résultat.
+Des sponsors qui paient, pour les créateurs et les petits médias, sans avoir à les chercher.
 
-## Pour les éditeurs
+## Pour les créateurs et les petits médias
 
-- Nous trouvons des créateurs (YouTube, podcasts, newsletters, blogs) suivis par votre clientèle : artisans, indépendants, petites entreprises.
-- Chaque créateur reçoit un lien suivi vers votre logiciel.
-- Vous payez une commission seulement sur les clients venus de ces liens qui s'abonnent et paient. Pas de forfait, pas de frais d'entrée.
+- De 1 000 à 20 000 abonnés, sur YouTube, X, un podcast ou une newsletter : Audiently vous présente des sponsors adaptés à votre public.
+- Des formats simples : intégration YouTube, post X, interview de lancement ou pack événement.
+- Vous restez libre d'accepter ou de refuser. Chaque collaboration est signalée comme commerciale.
 
-## Pour les créateurs
+## Pour les marques
 
-- Nous vous proposons des logiciels utiles à votre audience, avec des conditions claires.
-- Vous recommandez avec votre lien et vous touchez une part de la commission pour chaque client qui s'abonne.
-- Vous restez libre de refuser ce qui ne convient pas à votre audience. Les recommandations sont signalées comme collaboration commerciale.
+- Des créateurs et des petits médias suivis par votre futur public.
+- Format, prix et dates fixés par écrit.
 
-## Le principe : payé au résultat
+## Le principe : au résultat
 
-Ni l'éditeur ni le créateur n'avancent d'argent. La rémunération ne vient que des abonnements réellement payés par les clients amenés, selon des conditions écrites avec chaque éditeur.
+Vous n'avancez rien. Audiently prend 20 % de chaque sponsor, pendant 6 mois à partir de son premier paiement.
 
 ## Contact
 
