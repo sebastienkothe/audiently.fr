@@ -292,3 +292,170 @@ a:hover .arrow{transform:translate(2px,-2px)}
  a:hover .arrow{transform:none}
  .js .steps li .step-line>span:last-child::after{transform:none!important}
 }
+
+/* ===== v4 (30/10/2026) : accès double, maquettes Instagram fictives, Pack micro-créateurs ===== */
+.audience-switch{display:inline-flex;flex-wrap:wrap;gap:6px;padding:5px;border:1px solid var(--line);border-radius:999px;background:#ffffffcc;box-shadow:0 2px 4px #0a0a0a08;backdrop-filter:blur(6px)}
+.switch-option{display:inline-flex;align-items:center;gap:8px;min-height:38px;padding:8px 14px;border-radius:999px;font-size:12px;font-weight:500;color:var(--secondary);transition:background .2s,color .2s}
+.switch-option:hover{color:var(--ink);background:var(--muted)}
+.switch-option.is-primary{background:var(--ink);color:#fff}
+.switch-dot{width:7px;height:7px;border-radius:50%;background:var(--accent);box-shadow:0 0 0 3px #e8622c40}
+.hero-halo{height:760px;background:radial-gradient(ellipse at 72% 38%,rgba(253,233,220,.75),transparent 52%),radial-gradient(ellipse at 18% 8%,rgba(235,229,251,.6),transparent 50%),radial-gradient(ellipse at 92% 78%,rgba(226,245,230,.55),transparent 42%)}
+.phone-stage{position:relative;height:470px;max-width:520px;margin:0 auto}
+.phone{position:relative;margin:0;overflow:hidden;aspect-ratio:9/19;border:7px solid #0a0a0a;border-radius:34px;background:#111;box-shadow:0 30px 60px -24px #0a0a0a59,0 8px 18px -8px #0a0a0a33}
+.phone:before{content:"";position:absolute;z-index:3;top:7px;left:50%;width:32%;height:16px;border-radius:999px;background:#0a0a0a;transform:translateX(-50%)}
+.phone img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.phone:after{content:"";position:absolute;inset:0;z-index:1;background:linear-gradient(#0000008c,#0000 26%,#0000 58%,#000000a6)}
+.phone-front{position:absolute;z-index:2;left:50%;top:0;width:220px;transform:translateX(-30%)}
+.phone-back{position:absolute;z-index:1;left:50%;top:44px;width:190px;transform:translateX(-112%) rotate(-7deg);opacity:.96}
+.ig-top{position:absolute;z-index:2;top:34px;left:12px;right:12px;display:flex;align-items:center;gap:8px;color:#fff}
+.ig-top-story{top:42px}
+.ig-avatar{flex:none;width:26px;height:26px;border-radius:50%;border:2px solid #fff;background:linear-gradient(135deg,#e8622c,#f2cbb9)}
+.ig-avatar-b{background:linear-gradient(135deg,#b9a6f0,#fde9dc)}
+.ig-avatar-c{background:linear-gradient(135deg,#7cc79a,#ebe5fb)}
+.ig-handle{display:flex;flex-direction:column;font-size:11px;font-weight:600;line-height:1.25;text-shadow:0 1px 2px #0006}
+.ig-handle small{font-size:9.5px;font-weight:500;opacity:.95}
+.ig-caption{position:absolute;z-index:2;left:12px;right:40px;bottom:18px;color:#fff;font-size:10.5px;line-height:1.4;text-shadow:0 1px 2px #0007}
+.ig-caption span{opacity:.85}
+.ig-actions{position:absolute;z-index:2;right:10px;bottom:22px;display:flex;flex-direction:column;gap:12px;color:#fff;font-size:15px;text-align:center}
+.ig-bars{position:absolute;z-index:2;top:28px;left:10px;right:10px;display:flex;gap:4px}
+.ig-bars span{flex:1;height:2px;border-radius:2px;background:#ffffff66}
+.ig-bars .on{background:#fff}
+.ig-sticker{position:absolute;z-index:2;left:50%;bottom:92px;transform:translateX(-50%) rotate(-3deg);padding:7px 12px;border-radius:10px;background:#fff;color:#2b5fd9;font-size:11px;font-weight:600;white-space:nowrap;box-shadow:0 6px 16px -6px #0008}
+.ig-code{position:absolute;z-index:2;left:50%;bottom:52px;transform:translateX(-50%);padding:5px 11px;border-radius:999px;background:#0a0a0acc;color:#fff;font-size:10.5px;white-space:nowrap}
+.float-card{position:absolute;z-index:4;display:flex;align-items:center;gap:10px;padding:11px 14px;border:1px solid var(--line);border-radius:16px;background:#fff;box-shadow:var(--shadow);font-size:11px;line-height:1.35}
+.float-card strong{display:block;font-size:12.5px}
+.float-card span{color:var(--secondary)}
+.float-paid{right:0;top:250px;max-width:220px}
+.float-icon{display:grid;place-items:center;flex:none;width:30px;height:30px;border-radius:50%;background:var(--mint);color:#1f7a3f!important;font-weight:700}
+.float-tag{left:0;top:340px;flex-direction:column;align-items:flex-start;gap:4px}
+.fiction-note{margin-top:14px;text-align:center;font-size:10.5px;color:var(--secondary)}
+.hero-visual .example-note{margin-top:6px}
+/* Section marques */
+.brand-section{padding-block:8px 72px}
+.brand-panel{display:grid;gap:40px;padding:34px 20px;border:1px solid var(--line);border-radius:32px;background:radial-gradient(ellipse at 0 0,#ebe5fbb3,transparent 50%),radial-gradient(ellipse at 100% 100%,#fde9dccc,transparent 55%),radial-gradient(ellipse at 100% 0,#e2f5e699,transparent 45%),#fff;box-shadow:0 2px 4px #0a0a0a06,0 24px 48px -32px #0a0a0a40}
+.brand-lead{margin-top:18px;font-size:15px;line-height:1.65}
+.pack-deliverable{display:flex;align-items:center;gap:12px;margin-top:20px;padding:14px 16px;border-radius:18px;background:#0a0a0a;color:#fff}
+.pack-deliverable p{color:#ffffffd9;font-size:13.5px;line-height:1.5}
+.pack-deliverable strong{color:#fff}
+.pack-chip{flex:none;padding:4px 10px;border-radius:999px;background:var(--accent);color:#fff;font-size:10.5px;font-weight:600}
+.pack-list{display:grid;gap:10px;margin-top:20px}
+.pack-list li{display:flex;align-items:center;gap:10px;font-size:13.5px;color:var(--ink)}
+.pack-list .check{display:grid;place-items:center;flex:none;width:22px;height:22px;border-radius:50%;background:var(--accent-wash);color:var(--accent-ink);font-size:11px;font-weight:700}
+.price-card{margin-top:24px;padding:18px 20px;border:1px solid var(--accent-line);border-radius:20px;background:#fffffff2}
+.price-label{font-size:11px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--accent-ink)}
+.price-value{margin-top:4px;font-family:var(--display);font-size:22px;color:var(--ink)}
+.price-value strong{font-size:30px;font-weight:600;letter-spacing:-.8px}
+.price-note{margin-top:4px;font-size:12.5px}
+.brand-visual{min-width:0}
+.phone-row{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;align-items:start;max-width:540px;margin:0 auto}
+.phone-sm{border-width:5px;border-radius:24px}
+.phone-sm:before{top:5px;height:11px}
+.phone-sm .ig-top{top:24px;left:8px;right:8px;gap:5px}
+.phone-sm .ig-top-story{top:30px}
+.phone-sm .ig-avatar{width:18px;height:18px;border-width:1.5px}
+.phone-sm .ig-handle{font-size:8px}
+.phone-sm .ig-handle small{font-size:7.5px}
+.phone-sm .ig-caption{left:8px;right:8px;bottom:30px;font-size:8px}
+.phone-sm .ig-bars{top:20px;left:7px;right:7px}
+.phone-sm .ig-sticker{bottom:72px;font-size:8.5px;padding:5px 8px}
+.phone-sm .ig-code{bottom:40px;font-size:8px}
+.phone-raised{margin-top:-18px}
+.phone-report{background:#fff}
+.phone-report:after{display:none}
+.report{position:absolute;inset:0;padding:30px 10px 10px;background:linear-gradient(#fbfbfb,#fff)}
+.report-head{display:flex;align-items:center;justify-content:space-between;gap:4px;font-family:var(--display);font-size:11px;font-weight:600;color:var(--ink)}
+.report-sub{margin-top:3px;font-size:7.5px}
+.report-stat{position:relative;display:grid;grid-template-columns:1fr auto;margin-top:10px;padding-bottom:7px;font-size:7.5px;color:var(--secondary)}
+.report-stat strong{font-family:var(--display);font-size:11px;color:var(--ink)}
+.report-stat i{position:absolute;left:0;bottom:0;height:3px;width:100%;border-radius:3px;background:var(--muted)}
+.report-stat i:after{content:"";position:absolute;inset:0 auto 0 0;width:var(--w);border-radius:3px;background:var(--accent)}
+.report-note{margin-top:12px;font-size:7px;line-height:1.4;font-style:italic}
+.formats{display:flex;flex-direction:column;align-items:center;gap:14px;margin-top:28px;text-align:center}
+.formats-title{font-size:12px;font-weight:600;letter-spacing:.06em;text-transform:uppercase}
+.format-list{display:flex;flex-wrap:wrap;justify-content:center;gap:8px}
+.format-list li{padding:8px 14px;border:1px solid var(--line);border-radius:999px;background:#fff;font-size:12.5px;font-weight:500;box-shadow:0 1px 2px #0a0a0a08}
+.contact-brand{margin-top:18px;font-size:13px}
+.contact-brand a{color:var(--ink);font-weight:600;border-bottom:1px solid var(--ink)}
+@media (min-width:480px){.phone-row{gap:14px}.phone-sm .ig-handle{font-size:9px}}
+@media (min-width:760px){
+  .audience-switch{gap:8px}.switch-option{font-size:13px;padding:9px 18px}
+  .phone-stage{height:540px}.phone-front{width:250px}.phone-back{width:215px}
+  .brand-section{padding-block:16px 96px}
+  .brand-panel{padding:48px 40px}
+  .brand-lead{font-size:16.5px}
+}
+@media (min-width:1100px){
+  .phone-stage{height:560px}.phone-front{width:262px}.phone-back{width:224px}
+  .float-paid{right:-6px;top:270px}.float-tag{left:-4px;top:380px}
+  .brand-section{padding-block:24px 110px}
+  .brand-panel{grid-template-columns:minmax(0,1fr) minmax(0,1.05fr);align-items:center;gap:56px;padding:64px 56px}
+  .brand-copy h2{text-align:left;margin-left:0}
+  .phone-row{gap:18px}
+}
+@media (max-width:479px){
+  .phone-stage{height:400px}.phone-front{width:190px}.phone-back{width:160px;top:36px}
+  .float-paid{top:236px;max-width:178px;padding:9px 11px}.float-tag{top:318px;padding:9px 11px}
+  .switch-option{font-size:11.5px;padding:7px 11px}
+}
+.pack-list,.format-list{padding:0;list-style:none}
+.brand-copy h2{margin-top:19px;font-size:clamp(29px,8vw,36px);letter-spacing:-1px;line-height:1.1}
+@media (min-width:760px){.brand-copy h2{font-size:40px}}
+@media (min-width:1100px){.brand-copy h2{font-size:46px;letter-spacing:-1.6px;line-height:1.08;margin-top:23px}}
+@media (min-width:1100px){.brand-copy h2{font-size:42px}}
+@media (max-width:479px){
+  .audience-switch{display:grid;grid-template-columns:1fr 1fr;width:100%;border-radius:22px}
+  .switch-option{justify-content:center;text-align:center;border-radius:17px;line-height:1.3;min-height:46px}
+  .switch-dot{display:none}
+  .phone-stage{height:380px}
+  .phone-front{width:172px;transform:translateX(-22%)}
+  .phone-back{width:142px;top:40px;transform:translateX(-100%) rotate(-7deg)}
+  .float-paid{top:220px;right:-4px}.float-tag{top:300px;left:-2px}
+  .phone-row{grid-template-columns:1fr 1fr;gap:14px;max-width:340px}
+  .phone-raised{margin-top:0}
+  .phone-sm .ig-handle{font-size:9px}.phone-sm .ig-handle small{font-size:8px}.phone-sm .ig-caption{font-size:9px}
+  .phone-report{grid-column:1/-1;aspect-ratio:auto;border-radius:22px;border-width:1px;border-color:var(--line);box-shadow:var(--shadow)}
+  .phone-report:before{display:none}
+  .phone-report .report{position:static;padding:18px 18px 36px}
+  .report-head{font-size:15px}.report-flag{font-size:10px}
+  .report-sub,.report-stat{font-size:11px}.report-stat strong{font-size:15px}.report-note{font-size:10px}
+}
+
+/* ===== v4b (30/10/2026) : retouches après relecture de Sébastien ===== */
+/* Carte « Collaboration commerciale » : même construction que « Sponsor payé », textes alignés à gauche */
+.float-tag{flex-direction:row;align-items:center;gap:10px}
+.float-tag strong{font-size:12.5px;color:var(--ink)}
+.float-icon-tag{background:var(--accent-wash);color:var(--accent-ink)!important;box-shadow:inset 0 0 0 1px var(--accent-line)}
+.float-icon svg{display:block}
+/* Icônes Instagram d'un Reel : cœur, commentaire, partager, enregistrer */
+.ig-actions{position:absolute;z-index:2;right:9px;bottom:20px;display:flex;flex-direction:column;align-items:center;gap:13px;color:#fff;font-size:inherit}
+.ig-act{display:flex;flex-direction:column;align-items:center;gap:3px}
+.ig-act svg{display:block;width:25px;height:25px;fill:none;stroke:#fff;stroke-width:1.9;stroke-linecap:round;stroke-linejoin:round;filter:drop-shadow(0 1px 2px #0007)}
+.ig-act small{font-size:10px;font-weight:600;line-height:1;text-shadow:0 1px 2px #0007}
+.phone-front .ig-caption{right:50px}
+.phone-sm .ig-actions{right:5px;bottom:12px;gap:8px}
+.phone-sm .ig-act{gap:2px}
+.phone-sm .ig-act svg{width:16px;height:16px;stroke-width:2}
+.phone-sm .ig-act small{font-size:7px}
+.phone-sm .ig-caption{right:30px;bottom:14px}
+/* Barre du bas d'une story */
+.ig-story-bar{position:absolute;z-index:2;left:7px;right:7px;bottom:10px;display:flex;align-items:center;gap:6px}
+.ig-reply{flex:1;min-width:0;padding:4px 8px;border:1px solid #ffffffb3;border-radius:999px;color:#fff;font-size:7.5px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.ig-story-bar svg{flex:none;width:14px;height:14px;fill:none;stroke:#fff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;filter:drop-shadow(0 1px 2px #0007)}
+/* Téléphones du pack : légende sous l'écran, plus rien qui ressemble à un bouton */
+.phone-item{margin:0;min-width:0;display:flex;flex-direction:column;gap:12px}
+.phone-caption{text-align:center;font-size:12px;font-weight:500;line-height:1.35;color:var(--secondary)}
+.report-flag{font-size:7px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--accent-ink)}
+/* Espace entre la carte des frais et le bouton */
+.pack-cta-zone{display:flex;flex-direction:column;align-items:flex-start;gap:22px;margin-top:24px}
+.pack-cta-zone .price-card{margin-top:0;align-self:stretch}
+@media (min-width:480px){.phone-sm .ig-act svg{width:18px;height:18px}.phone-sm .ig-act small{font-size:7.5px}.phone-sm .ig-caption{right:34px}}
+@media (min-width:1100px){.phone-caption{font-size:12.5px}}
+@media (max-width:479px){
+  .ig-act svg{width:21px;height:21px}.ig-act small{font-size:9px}.ig-actions{gap:10px;right:7px;bottom:16px}
+  .phone-front .ig-caption{right:42px}
+  .phone-item-report{grid-column:1/-1}
+  .phone-item-report .phone-report{grid-column:auto}
+  .pack-cta-zone{gap:20px}
+  /* « Sponsor payé » passe à gauche, au-dessus de « Collaboration commerciale », pour laisser les icônes du Reel visibles */
+  .float-paid{left:-2px;right:auto;top:192px}
+}
