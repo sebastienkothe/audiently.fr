@@ -547,3 +547,5 @@ a:hover .arrow{transform:translate(2px,-2px)}
 @media (min-width:480px){.hero-tagline{font-size:25px}}
 @media (min-width:760px){.hero-tagline{font-size:27px}}
 @media (min-width:1100px){.hero-tagline{margin-top:22px;font-size:clamp(24px,2vw,29px)}.hero-tagline+.hero-description{margin-top:20px}}
+/* Mobile : écart créateurs → contact aligné sur les autres écarts entre sections (64px au lieu de 128px) */
+@media (max-width:759px){.audiences+.contact-section{padding-top:0}}
