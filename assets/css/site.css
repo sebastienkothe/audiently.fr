@@ -540,3 +540,10 @@ a:hover .arrow{transform:translate(2px,-2px)}
 @media (min-width:1100px){.hero-visual{max-width:600px}.format-trio{max-width:600px}}
 @media (min-width:1100px) and (max-width:1279px){.hero-grid{grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:40px}}
 @media (min-width:1100px) and (max-width:1149px){.fm-badge{font-size:7.5px}}
+/* Accroche : titre long + ligne forte sous le titre */
+.hero h1.hero-h1-long{font-size:clamp(31px,8.4vw,36px);line-height:1.1;letter-spacing:-1.1px}
+.hero-tagline{margin-top:18px;font-family:var(--display);font-weight:600;color:var(--ink);font-size:21px;line-height:1.3;letter-spacing:-.5px}
+.hero-tagline+.hero-description{margin-top:18px}
+@media (min-width:480px){.hero h1.hero-h1-long{font-size:44px}.hero-tagline{font-size:25px}}
+@media (min-width:760px){.hero h1.hero-h1-long{font-size:52px;letter-spacing:-1.6px}.hero-tagline{font-size:27px}}
+@media (min-width:1100px){.hero h1.hero-h1-long{font-size:clamp(44px,3.8vw,54px);letter-spacing:-1.8px;line-height:1.08}.hero-tagline{margin-top:22px;font-size:clamp(24px,2vw,29px)}.hero-tagline+.hero-description{margin-top:20px}}
