@@ -534,3 +534,9 @@ a:hover .arrow{transform:translate(2px,-2px)}
   .selection-card{padding:18px}
   .selection-list em{font-size:10px}
 }
+/* Pastilles des 3 formats : une ligne, centrées, padding symétrique, largeur ajustée au texte */
+.fm-badge{display:inline-flex;align-items:center;justify-content:center;align-self:flex-start;width:fit-content;max-width:100%;padding:2px 8px;text-align:center;white-space:nowrap;font-size:8px;letter-spacing:0}
+@media (min-width:480px){.format-trio{gap:10px}.format-card{padding:10px 8px}.format-media{padding:12px 7px}.format-trio .fm-ad{padding:9px 6px}}
+@media (min-width:1100px){.hero-visual{max-width:600px}.format-trio{max-width:600px}}
+@media (min-width:1100px) and (max-width:1279px){.hero-grid{grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:40px}}
+@media (min-width:1100px) and (max-width:1149px){.fm-badge{font-size:7.5px}}
