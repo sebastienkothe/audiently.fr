@@ -1,21 +1,21 @@
 # Audiently
 
-Les bons placements pour votre logiciel ou votre app : newsletters, podcasts et créateurs de contenu, trouvés et réservés pour vous.
+La régie des newsletters, podcasts et créateurs de contenu français. Éditeurs de logiciels et d'apps : vous ne payez que le média, rien de plus.
 
 ## Pour les éditeurs de logiciels et d'apps
 
-- Vous nous dites ce que vous vendez et à qui. Nous cherchons les newsletters, les podcasts et les créateurs de contenu suivis par vos futurs clients.
-- Nous vérifions chaque diffuseur, négocions le prix et réservons la date. Vous validez chaque choix.
-- Nous relisons votre encart ou votre texte avant diffusion et contrôlons la mention publicitaire.
-- Publié à la date prévue, ou diffuseur remplacé. Format, date et prix fixés par écrit.
+- Vous nous dites ce que vous vendez et à qui. Nous vous proposons les encarts des newsletters, podcasts et créateurs que nous représentons et qui parlent à ce public.
+- Vous choisissez un encart, ou plusieurs médias d'un coup, avec un seul interlocuteur.
+- Nous réservons les dates auprès des médias, relisons votre encart ou votre texte avant diffusion et vérifions la mention publicitaire.
+- Publié à la date prévue, ou média remplacé. Format, date et prix fixés par écrit.
 
 ## Tarif
 
-Sur devis : nos frais de recherche et de réservation, plus le tarif de chaque newsletter, podcast ou créateur. Vous connaissez le total avant de vous engager.
+Le prix du média : vous payez le tarif de chaque newsletter, podcast ou créateur. Notre commission est versée par le média. Vous connaissez le total avant de vous engager.
 
 ## Pour les newsletters, podcasts et créateurs
 
-Newsletter, podcast, chaîne vidéo ou compte sur les réseaux : présentez-nous votre audience. Quand un éditeur de logiciel ou d'app cherche à toucher votre public, nous vous proposons un placement payé à votre tarif, fixé par écrit.
+Newsletter, podcast, chaîne vidéo ou compte sur les réseaux : confiez-nous la vente de vos encarts. Nous les proposons à des éditeurs de logiciels et d'apps qui cherchent votre public. Vous fixez votre tarif, et vous nous reversez une commission seulement quand une vente est faite.
 
 ## Contact
 
