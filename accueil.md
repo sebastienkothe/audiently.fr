@@ -1,21 +1,21 @@
 # Audiently
 
-Des sponsors qui paient, pour les créateurs et les petits médias, sans avoir à les chercher.
+Les bonnes newsletters pour votre logiciel ou votre app, trouvées et réservées pour vous.
 
-## Pour les créateurs et les petits médias
+## Pour les éditeurs de logiciels et d'apps
 
-- De 1 000 à 20 000 abonnés, sur YouTube, X, un podcast ou une newsletter : Audiently vous présente des sponsors adaptés à votre public.
-- Des formats simples : intégration YouTube, post X, interview de lancement ou pack événement.
-- Vous restez libre d'accepter ou de refuser. Chaque collaboration est signalée comme commerciale.
+- Vous nous dites ce que vous vendez et à qui. Nous cherchons les newsletters françaises lues par vos futurs clients.
+- Nous vérifions chaque newsletter, négocions le prix et réservons la date. Vous validez chaque choix.
+- Nous relisons votre encart avant parution et contrôlons la mention « Sponsorisé ».
+- Publié à la date prévue, ou newsletter remplacée. Format, date et prix fixés par écrit.
 
-## Pour les marques
+## Tarif
 
-- Des créateurs et des petits médias suivis par votre futur public.
-- Format, prix et dates fixés par écrit.
+Sur devis : nos frais de recherche et de réservation, plus le tarif de chaque newsletter. Vous connaissez le total avant de vous engager.
 
-## Le principe : au résultat
+## Pour les newsletters et les créateurs
 
-Vous n'avancez rien. Audiently prend 20 % de chaque sponsor, pendant 6 mois à partir de son premier paiement.
+Newsletter, podcast ou chaîne vidéo : présentez-nous votre audience. Quand un éditeur de logiciel ou d'app cherche à toucher votre public, nous vous proposons un placement payé à votre tarif, fixé par écrit.
 
 ## Contact
 
