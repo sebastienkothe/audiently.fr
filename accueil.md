@@ -4,7 +4,7 @@ La régie des newsletters, podcasts et créateurs de contenu français. Éditeur
 
 ## Pour les éditeurs de logiciels et d'apps
 
-- Vous nous dites ce que vous vendez et à qui. Nous vous proposons les encarts des newsletters, podcasts et créateurs que nous représentons et qui parlent à ce public.
+- Vous nous dites ce que vous vendez et à qui. Nous vous proposons les encarts des newsletters, podcasts et créateurs qui nous confient leurs encarts et qui parlent à ce public.
 - Vous choisissez un encart, ou plusieurs médias d'un coup, avec un seul interlocuteur.
 - Nous réservons les dates auprès des médias, relisons votre encart ou votre texte avant diffusion et vérifions la mention publicitaire.
 - Publié à la date prévue, ou média remplacé. Format, date et prix fixés par écrit.
