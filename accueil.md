@@ -1,8 +1,8 @@
 # Audiently
 
-Régie de newsletters, podcasts et créateurs de contenu français. Éditeurs de logiciels et d'apps : vous ne payez que le média, rien de plus.
+Audiently fait connaître les startups grâce aux newsletters, podcasts et créateurs de contenu français. Vous payez seulement le média, à son prix affiché, rien de plus.
 
-## Pour les éditeurs de logiciels et d'apps
+## Pour les startups
 
 - Vous nous dites ce que vous vendez et à qui. Parmi les newsletters, podcasts et créateurs qui nous confient leurs encarts, nous vous proposons ceux qui parlent à ce public.
 - Vous choisissez un encart, ou plusieurs médias d'un coup, avec un seul interlocuteur.
@@ -15,7 +15,7 @@ Vous réglez directement chaque média, à son tarif. Notre commission, c'est le
 
 ## Pour les newsletters, podcasts et créateurs
 
-Newsletter, podcast, chaîne vidéo ou compte sur les réseaux : confiez-nous la vente de vos encarts. Nous les proposons à des éditeurs de logiciels et d'apps qui cherchent votre public. Vous fixez votre tarif, l'éditeur vous règle directement, et vous nous reversez une commission seulement quand une vente est faite.
+Newsletter, podcast, chaîne vidéo ou compte sur les réseaux : confiez-nous la vente de vos encarts. Nous les proposons à des startups qui cherchent votre public. Vous fixez votre tarif, la startup vous règle directement, et vous nous reversez une commission seulement quand une vente est faite.
 
 ## Contact
 
