@@ -564,7 +564,7 @@ a:hover .arrow{transform:translate(2px,-2px)}
 .faq-item[open] .faq-toggle::after{transform:rotate(0)}
 .faq-item p{max-width:680px;padding-bottom:20px;font-size:14px;line-height:1.85}
 @media (min-width:760px){.faq-section{padding-block:80px}.faq-item h3{font-size:16px}.faq-item p{font-size:15px}}
-@media (min-width:1100px){.faq-section{padding-block:96px}.faq-grid{grid-template-columns:minmax(0,5fr) minmax(0,7fr);gap:64px;align-items:start}.faq-grid .section-heading{position:sticky;top:32px}.faq-item h3{font-size:18px}.faq-item p{font-size:16px}}
+@media (min-width:1100px){.faq-section{padding-block:96px}.faq-grid{grid-template-columns:minmax(0,5fr) minmax(0,7fr);gap:64px;align-items:start}.faq-grid .section-heading{position:sticky;top:32px}.faq-grid>.guide-link{grid-column:2}.faq-item h3{font-size:18px}.faq-item p{font-size:16px}}
 @media (max-width:759px){.faq-section+.contact-section{padding-top:0}.faq-section{border-top:0}}
 /* Guide newsletters startup B2B */
 .guide-hero{padding-block:56px 48px}
